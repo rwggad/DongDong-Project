@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BBS:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6813a8a-5d0f-4d26-aeff-71febc185392" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1981846418">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="54" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="4" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="5" />
+          <entry key="project.open.time.21" value="4" />
+          <entry key="project.open.time.22" value="5" />
+          <entry key="project.open.time.23" value="4" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="40" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="216" />
+          <entry key="jpg" value="7" />
+          <entry key="js" value="3" />
+          <entry key="jsp" value="1634" />
+          <entry key="log" value="5" />
+          <entry key="map" value="2" />
+          <entry key="php" value="1" />
+          <entry key="png" value="4" />
+          <entry key="sql" value="3" />
+          <entry key="wsdd" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="40" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="Image" value="11" />
+          <entry key="JAVA" value="216" />
+          <entry key="JSP" value="1634" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Scratch" value="3" />
+          <entry key="SourceMap" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="900" />
+          <entry key="dummy" value="77" />
+          <entry key="java" value="20041" />
+          <entry key="jsp" value="50369" />
+          <entry key="sql" value="85" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="900" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="20041" />
+          <entry key="JSP" value="50368" />
+          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="Scratch" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BBS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/list/clublistDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="method#clublistDAO#0;class#clublistDAO#0" />
+                <element signature="method#getNext#0;class#clublistDAO#0" />
+                <element signature="method#getBoardKind#0;class#clublistDAO#0" />
+                <element signature="method#joinClub#0;class#clublistDAO#0" />
+                <element signature="method#createClub#0;class#clublistDAO#0" />
+                <element signature="method#deleteWait#0;class#clublistDAO#0" />
+                <element signature="method#InsertWait#0;class#clublistDAO#0" />
+                <element signature="method#isWait#0;class#clublistDAO#0" />
+                <element signature="method#getWaitUser#0;class#clublistDAO#0" />
+                <element signature="method#getList#0;class#clublistDAO#0" />
+                <element signature="method#getMyList#0;class#clublistDAO#0" />
+                <element signature="method#getClubInfo#0;class#clublistDAO#0" />
+                <element signature="method#insertCal#0;class#clublistDAO#0" />
+                <element signature="method#getCalList#0;class#clublistDAO#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/management/managementDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="160" column="21" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getUserList#0;class#managementDAO#0" />
+                <element signature="method#getBoardList#0;class#managementDAO#0" />
+                <element signature="method#getCommentList#0;class#managementDAO#0" />
+                <element signature="method#getCalList#0;class#managementDAO#0" />
+                <element signature="method#clubUserDrop#0;class#managementDAO#0" />
+                <element signature="method#clubCalDrop#0;class#managementDAO#0" />
+                <element signature="method#commentDrop#0;class#managementDAO#0" />
+                <element signature="method#clubDrop#0;class#managementDAO#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Action/clubJoinAction.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/MainPage/myClub.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2812">
+              <caret line="148" column="14" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/clubPage/club.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getNext</find>
+      <find>myNavDropdwon</find>
+      <find>con</find>
+      <find>caption</find>
+      <find>boardKind</find>
+      <find>-2</find>
+      <find>Gaegu</find>
+      <find>jumbotron</find>
+      <find>calViewModal</find>
+      <find>clublistDAT</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\rwgga\IdeaProjects\BBS</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/BoardPage/freeBoard.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/commentWriteAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/JoinAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/loginAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/clubCalendarDropAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/boardDropAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/commentDropAction.jsp" />
+        <option value="$PROJECT_DIR$/web/clubPage/calPlus.jsp" />
+        <option value="$PROJECT_DIR$/web/BoardPage/write.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/userDropAction.jsp" />
+        <option value="$PROJECT_DIR$/src/list/clubusers.java" />
+        <option value="$PROJECT_DIR$/src/board/Board.java" />
+        <option value="$PROJECT_DIR$/src/board/comment.java" />
+        <option value="$PROJECT_DIR$/web/BoardPage/update.jsp" />
+        <option value="$PROJECT_DIR$/web/BoardPage/clubBoard.jsp" />
+        <option value="$PROJECT_DIR$/src/board/BoardDAO.java" />
+        <option value="$PROJECT_DIR$/web/Action/commentDeleteAction.jsp" />
+        <option value="$PROJECT_DIR$/src/list/clubcalendar.java" />
+        <option value="$PROJECT_DIR$/web/Action/clubCalendarPlusAction.jsp" />
+        <option value="$PROJECT_DIR$/src/list/clublist.java" />
+        <option value="$PROJECT_DIR$/web/Action/clubCreateAction.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/MainPage/join.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/LogoutAction.jsp" />
+        <option value="$PROJECT_DIR$/web/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/web/css/myBootstrap.css" />
+        <option value="$PROJECT_DIR$/web/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/web/css/custom.css" />
+        <option value="$PROJECT_DIR$/web/css/text_custom.css" />
+        <option value="$PROJECT_DIR$/web/Action/boardWriteAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/boardUpdateAction.jsp" />
+        <option value="$PROJECT_DIR$/web/BoardPage/view.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/boardDeleteAction.jsp" />
+        <option value="$PROJECT_DIR$/web/clubPage/createClub.jsp" />
+        <option value="$PROJECT_DIR$/src/user/waitUser.java" />
+        <option value="$PROJECT_DIR$/src/user/UserDAO.java" />
+        <option value="$PROJECT_DIR$/web/MainPage/login.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/clubUserDropAction.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/waitUserControl.jsp" />
+        <option value="$PROJECT_DIR$/src/management/managementDAO.java" />
+        <option value="$PROJECT_DIR$/web/clubPage/managementClub.jsp" />
+        <option value="$PROJECT_DIR$/web/MainPage/main.jsp" />
+        <option value="$PROJECT_DIR$/web/MainPage/management.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/clubDropAction.jsp" />
+        <option value="$PROJECT_DIR$/web/clubPage/clubCalendar.jsp" />
+        <option value="$PROJECT_DIR$/web/MainPage/findClub.jsp" />
+        <option value="$PROJECT_DIR$/web/BoardPage/noticeBoard.jsp" />
+        <option value="$PROJECT_DIR$/web/clubPage/club.jsp" />
+        <option value="$PROJECT_DIR$/web/Action/clubJoinAction.jsp" />
+        <option value="$PROJECT_DIR$/src/list/clublistDAO.java" />
+        <option value="$PROJECT_DIR$/web/MainPage/myClub.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="48" />
+    <option name="width" value="2184" />
+    <option name="height" value="1404" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="BoardPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="clubPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="MainPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/rwgga/IdeaProjects/BBS/web/index.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543394031209" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\BoardPage" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\MainPage" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\clubPage" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\Action" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="list" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\Action" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\MainPage" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\BoardPage" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web\clubPage" />
+      <recent name="C:\Users\rwgga\IdeaProjects\BBS\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="findClub.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/services/MainPage/findClub.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="BBS:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BBS" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60707" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BBS:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="BBS:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_BBS" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60707" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BBS:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="JavaScript Debug.findClub.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.findClub.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6813a8a-5d0f-4d26-aeff-71febc185392" name="Default Changelist" comment="" />
+      <created>1540045797741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540045797741</updated>
+      <workItem from="1540045803262" duration="47000" />
+      <workItem from="1540045885046" duration="4401000" />
+      <workItem from="1540097150338" duration="1784000" />
+      <workItem from="1540101736551" duration="38000" />
+      <workItem from="1540101780778" duration="3000" />
+      <workItem from="1540108297594" duration="7154000" />
+      <workItem from="1540185164920" duration="73000" />
+      <workItem from="1540185244378" duration="40000" />
+      <workItem from="1540186467700" duration="180000" />
+      <workItem from="1540282719676" duration="1709000" />
+      <workItem from="1540284712303" duration="2636000" />
+      <workItem from="1540363958337" duration="11322000" />
+      <workItem from="1540442511900" duration="621000" />
+      <workItem from="1540449032444" duration="687000" />
+      <workItem from="1540450760441" duration="1200000" />
+      <workItem from="1540624802993" duration="51000" />
+      <workItem from="1540635464055" duration="1223000" />
+      <workItem from="1540975865595" duration="19000" />
+      <workItem from="1540981623606" duration="8113000" />
+      <workItem from="1541051975441" duration="12868000" />
+      <workItem from="1541121323059" duration="25233000" />
+      <workItem from="1541225881933" duration="599000" />
+      <workItem from="1541235987284" duration="18013000" />
+      <workItem from="1541303540663" duration="18692000" />
+      <workItem from="1541393476938" duration="13204000" />
+      <workItem from="1541488423601" duration="315000" />
+      <workItem from="1541490230449" duration="3932000" />
+      <workItem from="1541495042185" duration="6736000" />
+      <workItem from="1541513808294" duration="4930000" />
+      <workItem from="1541568420749" duration="198000" />
+      <workItem from="1541573779843" duration="7000" />
+      <workItem from="1541660634341" duration="4957000" />
+      <workItem from="1541671248679" duration="131000" />
+      <workItem from="1541732760092" duration="9167000" />
+      <workItem from="1541767894753" duration="9400000" />
+      <workItem from="1541820193920" duration="12983000" />
+      <workItem from="1541846646380" duration="114000" />
+      <workItem from="1541902937977" duration="18188000" />
+      <workItem from="1541934902150" duration="44000" />
+      <workItem from="1541935422750" duration="6347000" />
+      <workItem from="1541942311897" duration="416000" />
+      <workItem from="1541989863589" duration="22401000" />
+      <workItem from="1542097893023" duration="4533000" />
+      <workItem from="1542102680605" duration="98000" />
+      <workItem from="1542102859657" duration="195000" />
+      <workItem from="1542103310448" duration="1617000" />
+      <workItem from="1542174292206" duration="67000" />
+      <workItem from="1542178353317" duration="137000" />
+      <workItem from="1542179495496" duration="70000" />
+      <workItem from="1542362916904" duration="188000" />
+      <workItem from="1542513242821" duration="7268000" />
+      <workItem from="1542692743259" duration="250000" />
+      <workItem from="1543066188158" duration="4631000" />
+      <workItem from="1543285023071" duration="7591000" />
+      <workItem from="1543297535491" duration="1156000" />
+      <workItem from="1543302973209" duration="25774000" />
+      <workItem from="1543384840155" duration="2689000" />
+      <workItem from="1543387834104" duration="1989000" />
+      <workItem from="1543393876747" duration="748000" />
+      <workItem from="1543573912788" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="289252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="33" width="1455" height="935" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7952522" visible="true" weight="0.17419355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.20474778" side_tool="true" weight="0.2234957" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28678304" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17830424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27306733" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3287858" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.2094763" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32917705" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.24928367" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297491" />
+      <window_info anchor="right" id="Database" order="6" weight="0.17275986" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7952522" visible="true" weight="0.19068101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.20474778" side_tool="true" weight="0.2234957" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.287062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28428927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.09102245" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3287858" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.2094763" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32917705" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24946237" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297491" />
+      <window_info anchor="right" id="Database" order="6" weight="0.17275986" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/notice/BbsDAO.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/notice/BbsDAO.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/Action/JoinAction.jsp</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/board/BoardDAO.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/management/managementDAO.java</url>
+          <line>242</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/list/clublistDAO.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="SQL" language="JAVA" />
+        <watch expression="userID" language="JAVA" />
+        <watch expression="userPassword" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>userPassword</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userID</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SQL</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>2</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>date</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>studentNumber</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/Action/clubCalendarPlusAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/clubCreateAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MainPage/join.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-711">
+          <caret line="49" column="52" lean-forward="true" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap-reboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/myBootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="5" column="80489" lean-forward="true" selection-start-line="5" selection-start-column="80472" selection-end-line="5" selection-end-column="80489" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/BoardPage/clubBoard.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/BoardPage/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="87" column="43" lean-forward="true" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/boardDropAction.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/boardUpdateAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="92" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/clubPage/calPlus.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4879" selection-start-line="4879" selection-end-line="4896" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/waitUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list/clubusers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/board/BoardDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#BoardDAO#0;class#BoardDAO#0" />
+            <element signature="method#getDate#0;class#BoardDAO#0" />
+            <element signature="method#getNext#0;class#BoardDAO#0" />
+            <element signature="method#write#0;class#BoardDAO#0" />
+            <element signature="method#getBList#0;class#BoardDAO#0" />
+            <element signature="method#getBbs#0;class#BoardDAO#0" />
+            <element signature="method#update#0;class#BoardDAO#0" />
+            <element signature="method#delete#0;class#BoardDAO#0" />
+            <element signature="method#getCount#0;class#BoardDAO#0" />
+            <element signature="method#setCount#0;class#BoardDAO#0" />
+            <element signature="method#getComment#0;class#BoardDAO#0" />
+            <element signature="method#commentDelete#0;class#BoardDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list/clublist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="57" column="47" lean-forward="true" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MainPage/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="56" column="91" selection-start-line="56" selection-start-column="91" selection-end-line="56" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/clubPage/createClub.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1906">
+          <caret line="117" column="20" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/BoardPage/view.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="194" column="27" lean-forward="true" selection-start-line="194" selection-start-column="27" selection-end-line="194" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/userDropAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/waitUserControl.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="72" column="39" lean-forward="true" selection-start-line="72" selection-start-column="39" selection-end-line="73" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/clubDropAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="73" column="8" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/text_custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/BoardPage/write.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="89" column="24" lean-forward="true" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MainPage/management.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/clubPage/managementClub.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="299" column="24" selection-start-line="299" selection-start-column="24" selection-end-line="299" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/loginAction.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/LogoutAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list/clubcalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/commentDeleteAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="63" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/clubUserDropAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="62" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MainPage/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="107" column="52" selection-start-line="107" selection-start-column="52" selection-end-line="108" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/boardDeleteAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="42" column="95" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/BoardPage/noticeBoard.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="148" column="34" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/clubPage/clubCalendar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="157" column="6" selection-start-line="157" selection-start-column="6" selection-end-line="157" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MainPage/findClub.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="183" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/boardWriteAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="79" column="58" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/JoinAction.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/list/clublistDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="method#clublistDAO#0;class#clublistDAO#0" />
+            <element signature="method#getNext#0;class#clublistDAO#0" />
+            <element signature="method#getBoardKind#0;class#clublistDAO#0" />
+            <element signature="method#joinClub#0;class#clublistDAO#0" />
+            <element signature="method#createClub#0;class#clublistDAO#0" />
+            <element signature="method#deleteWait#0;class#clublistDAO#0" />
+            <element signature="method#InsertWait#0;class#clublistDAO#0" />
+            <element signature="method#isWait#0;class#clublistDAO#0" />
+            <element signature="method#getWaitUser#0;class#clublistDAO#0" />
+            <element signature="method#getList#0;class#clublistDAO#0" />
+            <element signature="method#getMyList#0;class#clublistDAO#0" />
+            <element signature="method#getClubInfo#0;class#clublistDAO#0" />
+            <element signature="method#insertCal#0;class#clublistDAO#0" />
+            <element signature="method#getCalList#0;class#clublistDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/management/managementDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="160" column="21" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getUserList#0;class#managementDAO#0" />
+            <element signature="method#getBoardList#0;class#managementDAO#0" />
+            <element signature="method#getCommentList#0;class#managementDAO#0" />
+            <element signature="method#getCalList#0;class#managementDAO#0" />
+            <element signature="method#clubUserDrop#0;class#managementDAO#0" />
+            <element signature="method#clubCalDrop#0;class#managementDAO#0" />
+            <element signature="method#commentDrop#0;class#managementDAO#0" />
+            <element signature="method#clubDrop#0;class#managementDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Action/clubJoinAction.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/MainPage/myClub.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2812">
+          <caret line="148" column="14" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/clubPage/club.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BBS:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BBS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.47-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

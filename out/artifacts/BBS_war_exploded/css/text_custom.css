@@ -1,0 +1,17 @@
+*{
+    font-family: 'Jua', sans-serif;
+}
+.t_left_m {
+    color: #000000;
+    font-style: normal;
+    text-align: left;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.t_right_m{
+    color: #000000;
+    font-style: normal;
+    text-align: right;
+    vertical-align: middle;
+    margin-right: 20px;
+}
