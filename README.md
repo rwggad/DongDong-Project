@@ -1,4 +1,4 @@
-# DongDong-Project(WEB)
+# DongDong-Web
    - 제작자 : 김정환 - rwggad@gmail.com  
       
    - 작업기간 : 2018 11 ~ 2018 12
